@@ -1,6 +1,7 @@
 <h1>Hi there 🌈</h1>
 <br>
 Contact me on:
+<br>
 <p>Discord: diroto</p>
 
 <!--
