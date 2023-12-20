@@ -1,7 +1,7 @@
 <h1>Hi there 🌈</h1>
 <br>
 Contact me on:
-Discord: diroto
+<p>Discord: diroto</p>
 
 <!--
 **td2002/td2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
