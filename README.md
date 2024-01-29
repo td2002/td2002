@@ -1,8 +1,11 @@
 <h1>Hi there 🌈</h1>
+<p>[Test markup]</p>
 <br>
+<!--
 Contact me on:
 <br>
 <p>Discord: diroto</p>
+-->
 
 <!--
 **td2002/td2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
