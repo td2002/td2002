@@ -1,8 +1,24 @@
 <h1>Hi there 🌈</h1>
+<p align="left">
+I'm Davide, Bachelor’s Degree in Computer Science, passionate about learning and discovery, and ready for opportunities to grow and innovate.
+</p>
 <br>
-Contact me on:
+<h2>
+  💻 Tools I'm familiar with
+</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 <br>
-<p>Discord: diroto</p>
+<h2>
+  🚀 My personal projects
+</h2>
+<p align="left">
+https://worldcitiesapi.eu/web/
+</p>
 
 <!--
 **td2002/td2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
