@@ -17,7 +17,7 @@ I'm Davide, Bachelor’s Degree in Computer Science, passionate about learning a
   🚀 My personal projects
 </h2>
 <p align="left">
-https://worldcitiesapi.eu/web/
+https://cuiz.eu
 </p>
 
 <!--
