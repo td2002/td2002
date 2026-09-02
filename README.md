@@ -25,7 +25,7 @@ I'm Davide, Bachelor’s Degree in Computer Science, passionate about learning a
   🚀 My personal projects
 </h2>
 <p align="left">
-• My world cities quiz game website: https://cuiz.eu
+• My geography quiz game website: https://cuiz.eu
 </p>
 
 <!--
