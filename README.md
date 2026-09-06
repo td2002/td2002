@@ -1,10 +1,13 @@
-<h1>Hi there 🌈</h1>
+<h2>Davide Trioli</h2>
 <p align="left">
-I'm Davide, Bachelor’s Degree in Computer Science, passionate about learning and discovery, and ready for opportunities to grow and innovate.
+  <ul>
+    <li>Bachelor’s Degree in Computer Science @UniGe</li>
+    <li>Frontend Software Developer @appfactory</li>
+  </ul>
 </p>
 <br>
 <h2>
-  💻 Tools I'm familiar with
+  💻 Tools
 </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -22,10 +25,12 @@ I'm Davide, Bachelor’s Degree in Computer Science, passionate about learning a
 </p>
 <br>
 <h2>
-  🚀 My personal projects
+  🚀 Personal projects
 </h2>
 <p align="left">
-• My geography quiz game website: https://cuiz.eu
+  <ul>
+    <li>My geography quiz game: https://cuiz.eu</li>
+  </ul>
 </p>
 
 <!--
