@@ -1,8 +1,8 @@
 <h2>Davide Trioli</h2>
 <p align="left">
   <ul>
+    <li>Frontend Mobile & Web Developer @appfactory</li>
     <li>Bachelor’s Degree in Computer Science @UniGe</li>
-    <li>Frontend Software Developer @appfactory</li>
   </ul>
 </p>
 <br>
@@ -28,9 +28,7 @@
   🚀 Personal projects
 </h2>
 <p align="left">
-  <ul>
-    <li>My geography quiz game: https://cuiz.eu</li>
-  </ul>
+  🌏 <a href="https://cuiz.eu">Cuiz</a>
 </p>
 
 <!--
